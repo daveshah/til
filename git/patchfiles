@@ -1,0 +1,3 @@
+TIL - patchfiles are a thing: https://ariejan.net/2009/10/26/how-to-create-and-apply-a-patch-with-git/ 
+
+Matt J was able to send me a patch file with his changesets and I was able to magically import them in IntelliJ. Crazy sauce.
