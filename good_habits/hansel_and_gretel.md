@@ -5,7 +5,7 @@ The interesting thing I noticed about this - sometimes these notes would give us
 
 Every developer worth their salt should try and live by the [boyscout rule](http://programmer.97things.oreilly.com/wiki/index.php/The_Boy_Scout_Rule). In a big forest of a codebase, it's easy to start tidying up far from the original spot we initially want to start cleaning.
 
-Before you know it, you're in some strange part of the codebase you've never been before [and you may ask yourself... how did I get here](https://www.youtube.com/watch?v=98AJUj-qxHI).
+Before you know it, you're in some strange part of the codebase you've never been before [and you may ask yourself... how did I get here?](https://www.youtube.com/watch?v=98AJUj-qxHI).
 
 The post-its and scratch pads always kept us from getting lost. They always gave us a way back. We'd jot down our original intent as a marker in the wilderness as we pressed on cleaning. When we felt comfortable, we'd pop these items off our stack one by one, sometimes adding a few more on only to take them off again as we cleaned. Ultimately this trail lead us back to our original destination. 
 
