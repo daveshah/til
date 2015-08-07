@@ -7,7 +7,7 @@ Every developer worth their salt should try and live by the [boyscout rule](http
 
 Before you know it, you're in some strange part of the codebase you've never been before [and you may ask yourself... how did I get here?](https://www.youtube.com/watch?v=98AJUj-qxHI).
 
-The post-its and scratch pads always kept us from getting lost. They always gave us a way back. We'd jot down our original intent as a marker in the wilderness as we pressed on cleaning. When we felt comfortable, we'd pop these items off our stack one by one, sometimes adding a few more on only to take them off again as we cleaned. Ultimately this trail lead us back to our original destination. 
+The post-its and scratch pads [always kept us from getting lost](https://dl.dropboxusercontent.com/u/25009451/ProgrammerInterrupted.png). They always gave us a way back. We'd jot down our original intent as a marker in the wilderness as we pressed on cleaning. When we felt comfortable, we'd pop these items off our stack one by one, sometimes adding a few more on only to take them off again as we cleaned. Ultimately this trail lead us back to our original destination. 
 
 I still do this. I'm not sure if there's a name for it but I call it Hansel and Gretel programming.
 It helps :)
